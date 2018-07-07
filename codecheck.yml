@@ -1,4 +1,4 @@
 env:
-  BASE_URL: "ここに有効なドメインを入力してください(例: https://your.domain.com)"
+  BASE_URL: https://fierce-thicket-41810.herokuapp.com
 
 test: mocha
